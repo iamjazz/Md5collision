@@ -15,7 +15,8 @@ fastcoll_v1.0.0.5.exe -p init.txt -o 1.txt 2.txt
 ##### 输出两个txt文本后
 ##### 在php环境中运行Md5collision.php
 
-![](http://www.jazzsec.com/wp-content/uploads/2019/12/c4ca4238a0b9238.png)
+![Image text](https://github.com/iamjazz/Md5collision/blob/master/img/1.png)
+
 可以看到，二进制的hash一样。 但是实际内容不一样。
 创建一个测试文件命名为webtest.php
 #### 内容为
