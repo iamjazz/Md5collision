@@ -15,7 +15,7 @@ fastcoll_v1.0.0.5.exe -p init.txt -o 1.txt 2.txt
 ##### 输出两个txt文本后
 ##### 在php环境中运行Md5collision.php
 
-图片1
+![](img/1.png)
 可以看到，二进制的hash一样。 但是实际内容不一样。
 创建一个测试文件命名为webtest.php
 #### 内容为
@@ -31,4 +31,4 @@ else{
 ```
 POST的数据成功时输出ok、否则输出no
 
-图片2
+![](img/2.png)
